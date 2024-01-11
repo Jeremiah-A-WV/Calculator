@@ -1,5 +1,7 @@
-/* File Name: Calculator.java
-Entire Code By: Jeremiah Whitehurst */
+/*
+File Name: Calculator.java
+Entire Code By: Jeremiah Whitehurst
+*/
 
 class Calculator {
   Calculator() {}

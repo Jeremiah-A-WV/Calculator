@@ -1,5 +1,7 @@
-/* File Name: Main.java
-Entire Code By: Jeremiah Whitehurst */
+/*
+File Name: Main.java
+Entire Code By: Jeremiah Whitehurst
+*/
 
 // import the scanner
 import java.util.Scanner;
